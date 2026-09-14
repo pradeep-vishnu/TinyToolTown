@@ -56,7 +56,7 @@ The application includes a built-in badge system to reward typing milestones:
 
 ## 🛠️ How to Run
 
-Online: Click here [RoarWPM by VP]([https://todo](https://pradeep-vishnu.github.io/roarwpm-type-test/))
+Online: Click here [RoarWPM by VP](https://pradeep-vishnu.github.io/roarwpm-type-test/)
 
 Locally: 
 1. Create a new file named `.html`.
